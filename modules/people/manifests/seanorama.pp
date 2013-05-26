@@ -20,7 +20,6 @@ class people::seanorama
   #include nvm
     include ohmyzsh
   #include onepassword
-  include osx
         #include python
     include pycharm
   #include qt
