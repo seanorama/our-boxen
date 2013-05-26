@@ -1,7 +1,7 @@
 class people::seanorama 
 {
   ## Remove the # from any of the below to install that software
-  #include alfred
+  include alfred
   #include caffeine
   #include chrome
   #include clojure
