@@ -27,7 +27,7 @@ class people::seanorama
   include secondbar
   include skype
   #include sparrow
-    include spf13vim13
+    include spf13vim3
   #include spotify
   #include sublime_text_2
   #include textmate
