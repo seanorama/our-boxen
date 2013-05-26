@@ -35,6 +35,7 @@ github "sudo",       "1.0.0"
 # https://github.com/boxen.
 
 
+github "alfred",         "1.0.0"
 github "chrome",         "1.1.0"
 github "dropbox",        "1.1.0"
 github "firefox",        "1.0.5"
