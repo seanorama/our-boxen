@@ -106,7 +106,6 @@ class people::seanorama
            'r',
            'readline',
            'rename',
-           'screen',
            'sqlite',
            'vim',
            'wget',
