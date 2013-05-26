@@ -3,39 +3,43 @@ class people::seanorama
   ## Remove the # from any of the below to install that software
   include alfred
   #include caffeine
-  #include chrome
+  include chrome
   #include clojure
   #include colloquy
-  #include dropbox
-  #include fitbit
-        #include firefox
+  include dropbox
+  include fitbit
+        include firefox
         #include flux
   #include gitx
   #include hub
-  #include iterm2
-  #include kindle
-  #include macvim
-  #include mongodb
+  include iterm2
+  include kindle
+  include macvim
+  include mongodb
   #include mysql
   #include nvm
+    include ohmyzsh
   #include onepassword
-  #include osx
+  include osx
         #include python
+    include pycharm
   #include qt
-  #include screen
-        #include secondbar
-  #include skype
+  include screen
+  include secondbar
+  include skype
   #include sparrow
+    include spf13vim13
   #include spotify
   #include sublime_text_2
   #include textmate
   #include things
         #include thunderbird
         #include virtualbox
-  #include vlc
-  #include wget
+    incldue vim
+  include vlc
+  include wget
   #include xquartz
-  #include zsh)
+  include zsh)
 
         #include git
 #git::config::local { '/path/to/my/repo':
