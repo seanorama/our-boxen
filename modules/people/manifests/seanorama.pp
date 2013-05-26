@@ -12,7 +12,7 @@ class people::seanorama
         #include flux
   #include gitx
   #include hub
-  include iterm2
+  include iterm2::stable
   include kindle
   include macvim
   include mongodb
