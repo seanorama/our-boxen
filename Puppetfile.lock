@@ -4,9 +4,29 @@ GITHUBTARBALL
     boxen (2.1.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-firefox
+  specs:
+    firefox (1.0.5)
+
+GITHUBTARBALL
+  remote: boxen/puppet-fitbit
+  specs:
+    fitbit (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-gcc
@@ -29,6 +49,31 @@ GITHUBTARBALL
     hub (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-iterm2
+  specs:
+    iterm2 (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-kindle
+  specs:
+    kindle (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-macvim
+  specs:
+    macvim (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-mongodb
+  specs:
+    mongodb (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-mysql
+  specs:
+    mysql (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.4.0)
@@ -37,6 +82,16 @@ GITHUBTARBALL
   remote: boxen/puppet-nodejs
   specs:
     nodejs (2.2.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-osx
+  specs:
+    osx (1.1.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-pycharm
+  specs:
+    pycharm (1.0.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-repository
@@ -49,9 +104,69 @@ GITHUBTARBALL
     ruby (4.1.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-rubymine
+  specs:
+    rubymine (1.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-screen
+  specs:
+    screen (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-secondbar
+  specs:
+    secondbar (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-skype
+  specs:
+    skype (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sparrow
+  specs:
+    sparrow (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-spotify
+  specs:
+    spotify (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sysctl
+  specs:
+    sysctl (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vagrant
+  specs:
+    vagrant (2.0.7)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vim
+  specs:
+    vim (1.0.3)
+
+GITHUBTARBALL
+  remote: boxen/puppet-wget
+  specs:
+    wget (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-xquartz
+  specs:
+    xquartz (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-zsh
+  specs:
+    zsh (1.0.0)
 
 GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
@@ -59,22 +174,69 @@ GITHUBTARBALL
     inifile (0.9.0)
 
 GITHUBTARBALL
+  remote: fromonesrc/puppet-slate
+  specs:
+    slate (1.0.1)
+
+GITHUBTARBALL
+  remote: gblair/puppet-googledrive
+  specs:
+    googledrive (1.0.1)
+
+GITHUBTARBALL
   remote: puppetlabs/puppetlabs-stdlib
   specs:
     stdlib (4.0.2)
 
+GITHUBTARBALL
+  remote: samjsharpe/puppet-ohmyzsh
+  specs:
+    ohmyzsh (1.0.0)
+
+GITHUBTARBALL
+  remote: samjsharpe/puppet-spf13vim3
+  specs:
+    spf13vim3 (1.0.0)
+
 DEPENDENCIES
   boxen (= 2.1.0)
+  chrome (= 1.1.0)
   dnsmasq (= 1.0.0)
+  dropbox (= 1.1.0)
+  firefox (= 1.0.5)
+  fitbit (= 1.0.0)
   gcc (= 1.0.0)
   git (= 1.2.2)
+  googledrive (= 1.0.1)
   homebrew (= 1.1.2)
   hub (= 1.0.0)
   inifile (= 0.9.0)
+  iterm2 (= 1.0.2)
+  kindle (= 1.0.0)
+  macvim (= 1.0.0)
+  mongodb (= 1.0.0)
+  mysql (= 1.0.0)
   nginx (= 1.4.0)
   nodejs (= 2.2.0)
+  ohmyzsh (= 1.0.0)
+  osx (= 1.1.0)
+  pycharm (= 1.0.1)
   repository (= 2.0.2)
   ruby (= 4.1.0)
+  rubymine (= 1.0.1)
+  screen (= 1.0.0)
+  secondbar (= 1.0.0)
+  skype (= 1.0.2)
+  slate (= 1.0.1)
+  sparrow (= 1.0.0)
+  spf13vim3 (= 1.0.0)
+  spotify (= 1.0.0)
   stdlib (= 4.0.2)
   sudo (= 1.0.0)
+  sysctl (= 1.0.0)
+  vagrant (= 2.0.7)
+  vim (= 1.0.3)
+  wget (= 1.0.0)
+  xquartz (= 1.0.0)
+  zsh (= 1.0.0)
 

@@ -39,7 +39,7 @@ class people::seanorama
   include vlc
   include wget
   #include xquartz
-  include zsh)
+  include zsh
 
         #include git
 #git::config::local { '/path/to/my/repo':
