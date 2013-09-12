@@ -34,7 +34,6 @@ class people::seanorama
   #include things
         #include thunderbird
         #include virtualbox
-    incldue vim
   include vlc
   include wget
   #include xquartz
@@ -101,7 +100,7 @@ class people::seanorama
            'libffi',
            'libmpc',
            'libtiff',
-           'mongodb',
+#           'mongodb',
            'mpfr',
            'pkg-config',
            'pstree',
@@ -111,7 +110,7 @@ class people::seanorama
            'rename',
            'sqlite',
            'vim',
-           'wget',
+#           'wget',
            'xz',
           ]:
           ensure => 'present',

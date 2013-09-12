@@ -159,6 +159,11 @@ GITHUBTARBALL
     vim (1.0.3)
 
 GITHUBTARBALL
+  remote: boxen/puppet-vlc
+  specs:
+    vlc (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-wget
   specs:
     wget (1.0.0)
@@ -242,6 +247,7 @@ DEPENDENCIES
   sysctl (= 1.0.0)
   vagrant (= 2.0.7)
   vim (= 1.0.3)
+  vlc (= 1.0.0)
   wget (= 1.0.0)
   xquartz (= 1.0.0)
   zsh (= 1.0.0)
