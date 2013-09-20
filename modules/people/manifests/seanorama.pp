@@ -38,6 +38,7 @@ class people::seanorama
   include wget
   #include xquartz
   include zsh
+  include eclipse
 
         #include git
 #git::config::local { '/path/to/my/repo':
